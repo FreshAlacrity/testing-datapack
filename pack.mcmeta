@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
+    "pack_format": 15,
     "description": "Announces when it has been loaded using the /reload command - that's it!"
   }
 }
